@@ -1,0 +1,16 @@
+book_management/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── dao/
+│   │   │   │   ├── BookDao.java
+│   │   │   │   ├── DatabaseConnection.java
+│   │   │   ├── model/
+│   │   │   │   ├── Book.java
+│   │   │   ├── service/
+│   │   │   │   ├── BookService.java
+│   │   │   ├── util/
+│   │   │   │   ├── CredentialReader.java
+│   │   │   ├── Main.java
+│   ├── resources/
+│   │   ├── db_credentials.txt
